@@ -2,6 +2,7 @@
 
 jmp start
 num: dw 3
+flag: dw 5
 
 
 start: 
